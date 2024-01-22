@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Laag_2" data-name="Laag 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 123.43 208.35">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d9d9d9;
+        stroke: #1d1d1b;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="Laag_1-2" data-name="Laag 1">
+    <g id="Koelkast_nieuw" data-name="Koelkast nieuw">
+      <path class="cls-1" d="M6.67,1h110.09c3.13,0,5.67,2.54,5.67,5.67v79.25H1V6.67C1,3.54,3.54,1,6.67,1Z"/>
+      <path class="cls-1" d="M6.67,85.92h110.09c3.13,0,5.67,2.54,5.67,5.67v115.76H1v-115.76c0-3.13,2.54-5.67,5.67-5.67Z" transform="translate(123.43 293.27) rotate(180)"/>
+      <rect class="cls-1" x="9.42" y="57.38" width="5.74" height="21.59" rx="2.87" ry="2.87"/>
+      <rect class="cls-1" x="9.42" y="94.17" width="5.74" height="21.59" rx="2.87" ry="2.87"/>
+    </g>
+  </g>
+</svg>
