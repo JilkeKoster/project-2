@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Laag_2" data-name="Laag 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 115.86 70.71">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #a7e7f6;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="Laag_2-2" data-name="Laag 2">
+    <g>
+      <polygon class="cls-1" points="93.31 1 21.72 1 11.36 11.63 1 22.26 1 69.71 114.86 69.71 114.86 22.26 93.31 1"/>
+      <line class="cls-2" x1="1" y1="22.26" x2="114.86" y2="22.26"/>
+      <polyline class="cls-2" points="21.72 1 43.07 22.26 43.07 69.71"/>
+      <polyline class="cls-2" points="45.8 1 67.16 22.26 67.16 69.71"/>
+      <polyline class="cls-2" points="70.19 1 91.54 22.26 91.54 69.71"/>
+    </g>
+  </g>
+</svg>
