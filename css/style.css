@@ -127,6 +127,19 @@ h1 {
     width: 260px;
     text-align: center;
     margin: auto;
+    animation: slideIn 2s ease 0s 1 normal none;
+}
+
+@keyframes slideIn {
+	0% {
+		opacity: 0;
+		transform: translateY(-50px);
+	}
+
+	100% {
+		opacity: 1;
+		transform: translateY(0);
+	}
 }
 
 h2 {
