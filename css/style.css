@@ -154,6 +154,13 @@ p {
     text-align: justify;
 }
 
+a {
+    font-family: "soleil", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #000;
+}
+
 article h1 {
     padding-top: 30px;
 }
@@ -209,16 +216,20 @@ article p {
     margin-bottom: -20px;
 }
 
-.home button {
+.button {
     background-color: #F2CF66;
     border: none;
     padding: 5px 20px;
     border-radius: 100px;
-    margin-bottom: 30px;
+    margin-top: 15px;
+    display: block;
+    width: 120px;
+    margin-bottom: 15px
 }
 
-.home button a{
+.button a {
     color: #000;
+    margin-bottom: 30px;
 }
 
 .banner {
@@ -236,10 +247,6 @@ article p {
     line-height: 35px;
     font-size: 30px;
     width: 300px;
-}
-
-.knop {
-    margin-top: 15px;
 }
 
 .blok-3 {
